@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'mysite.models.task',
+    'mysite.apps.mysiteConfig'
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
