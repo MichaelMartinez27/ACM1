@@ -1,1 +1,2 @@
-pip install django==3.2.8
+django==3.2.8
+mysql==0.0.3
